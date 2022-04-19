@@ -1,0 +1,29 @@
+{
+  "name": "db-example",
+  "version": "0.0.1",
+  "description": "Esempio di come NodeJs (JavaScript con il compiler v8 di Chrome) si interfaccia per eseguire delle query su un database di tipo SQL",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Void-Flow/db-example.git"
+  },
+  "keywords": [],
+  "author": "Voidflow",
+  "license": "MIT license",
+  "bugs": {
+    "url": "https://github.com/Void-Flow/db-example/issues"
+  },
+  "homepage": "https://github.com/Void-Flow/db-example#readme",
+  "dependencies": {
+    "next": "^12.1.5",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "styled-components": "^5.3.5"
+  }
+}
