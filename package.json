@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/Void-Flow/db-example#readme",
   "dependencies": {
-    "next": "^12.1.5",
+    "next": "^13.5.4",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "styled-components": "^5.3.5"
